@@ -1,0 +1,30 @@
+[
+    {
+    "_id": "651c2b0a8559e5204262843d",
+    "selectedMonth": "January",
+    "Express": 161998,
+    "income": 2000,
+    "Otherincome": 1000
+    },
+    {
+    "_id": "651c2d424fd1b1b8d9b9a498",
+    "selectedMonth": "October",
+    "Express": 554300,
+    "income": 0,
+    "Otherincome": 50000
+    },
+    {
+    "_id": "651c2d664fd1b1b8d9b9a499",
+    "selectedMonth": "September",
+    "Express": 0,
+    "income": 0,
+    "Otherincome": 50000
+    },
+    {
+    "_id": "66af992076147eb9f575006f",
+    "selectedMonth": "February",
+    "Express": 0,
+    "income": 0,
+    "Otherincome": 0
+    }
+    ]
